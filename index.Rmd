@@ -65,41 +65,40 @@ class: title-slide, middle
 
 class: inverse, center, middle
 
-# Saint-Laurent - Saguenay
+# Évaluation des effets cumulatifs
 
 <html><div style='float:left'></div><hr color='#ffdd55' style="margin-top:-30px" size=1px width=720px></html>
 
-<h2 style="color:#ffdd55;"><b>Évaluation des effets cumulatifs</b></h2>
+<h2 style="color:#ffdd55;"><b>Une perspective écosystémique</b></h2>
 <h2>Système du Saint-Laurent</h2>
-<h2>Projet pilote activités maritimes</h2>
+<h2>Autres projets</h2>
 <h2>Gestion des connaissances</h2>
 
 
 ---
 
-# Évaluation des effets cumulatifs
+# Une perspective écosystémique
 
-.references[
-Loi canadienne sur l'évaluation environnementale (1992)
-]
-
-**Évaluation d'impact** : *Évaluation des effets d’un projet désigné effectuée conformément à la Loi sur l’évaluation d’impact (Canada).‍ Ou Évaluation de tout projet encadré par la procédure d’évaluation et d’examen des impacts sur l’environnement prévue en vertu de la Loi sur la qualité de l’environnement (Québec).‍*
+**Gestion écosystémique** : *gestion guidée par des objectifs explicites, exécutée par des politiques, des protocoles et des procédures, et rendu adaptable par des suivis et de la recherche basée sur notre meilleure compréhension des interactions et processus écologiques nécessaires pour maintenant la composition, la structure et la fonction des écosystèmes.*
 
 --
 
 **Effets cumulatifs** : *[...] les effets cumulatifs que [la] réalisation [d’un projet], combinée à l’existence d’autres ouvrages ou à la réalisation d’autres projets ou activités, est susceptible de causer à l’environnement*.
 
-**Évaluation des effets cumulatifs** : *procédure systématique qui vise à identifier, à analyser et à évaluer les effets cumulatifs.*
-
 --
 
-**Pourquoi** : *Parce que les seuls effets qui comptent sont la somme totale des effets (effets cumulatifs), et non les effets de chaque projet individuel.*
-- Bill Ross
+**Évaluation régionale** : *Une évaluation régional des effets est une évaluation environnementale dont la principale et unique caractéristique distinctive est sa portée régionale et son accent sur une compréhension des interactions entre les activités humaines et le monde naturel.*
+
+
+
+.references[
+Loi canadienne sur l'évaluation environnementale (1992); Christensen et al. (1996); Sinclair et al. (2017)
+]
 
 
 ---
 
-# Évaluation des effets cumulatifs
+# Une perspective écosystémique
 
 <center><img src="figures/1_2-species.png" width="100%"></img></center>
 
@@ -112,7 +111,7 @@ Halpern et al. 2008; Halpern et al. 2015
 
 ---
 
-# Évaluation des effets cumulatifs
+# Une perspective écosystémique
 
 
 <center><img src="figures/8_2-halpern.png" width="100%"></img></center>
@@ -124,7 +123,7 @@ Halpern et al. 2008; Halpern et al. 2015
 
 ---
 
-# Évaluation des effets cumulatifs
+# Une perspective écosystémique
 
 <br/><br/>
 
@@ -136,7 +135,7 @@ Halpern et al. 2008; Halpern et al. 2015
 
 ---
 
-# Évaluation des effets cumulatifs
+# Une perspective écosystémique
 
 <center><img src="figures/1_2-species.png" width="100%"></img></center>
 
@@ -146,7 +145,7 @@ Halpern et al. 2008; Halpern et al. 2015
 
 ---
 
-# Évaluation des effets cumulatifs
+# Une perspective écosystémique
 
 <center><img src="figures/concept10.png" width="60%"></img></center>
 
@@ -157,7 +156,7 @@ Halpern et al. 2008; Halpern et al. 2015
 
 ---
 
-# Évaluation des effets cumulatifs
+# Une perspective écosystémique
 
 <center><img src="figures/halpern2.png" width="85%"></img></center>
 
@@ -169,7 +168,7 @@ Halpern et al. 2008; Halpern et al. 2015
 
 
 
-# Évaluation des effets cumulatifs
+# Une perspective écosystémique
 
 <center><img src="figures/1_2-species.png" width="100%"></img></center>
 
@@ -178,7 +177,7 @@ Halpern et al. 2008; Halpern et al. 2015
 ]
 
 ---
-# Évaluation des effets cumulatifs
+# Une perspective écosystémique
 
 <center><img src="figures/8_8-halpern.png" width="90%"></img></center>
 
@@ -190,7 +189,7 @@ Halpern et al. 2008; Halpern et al. 2015
 
 ---
 
-# Évaluation des effets cumulatifs
+# Une perspective écosystémique
 
 .pull-left2[
 ## Interactions écologiques
@@ -212,7 +211,7 @@ Estes et Palmisano 1974; Paine 1980; Abrams 1992;  Estes et al. 2011
 
 ---
 
-# Évaluation des effets cumulatifs
+# Une perspective écosystémique
 
 .pull-left2[
 ## Interactions écologiques
@@ -238,7 +237,7 @@ Wootton 1993, 2002; Menge 1995; Yodzis 2000
 
 ---
 
-# Évaluation des effets cumulatifs
+# Une perspective écosystémique
 
 .pull-left2[
 ## Interactions écologiques
@@ -271,7 +270,7 @@ Wootton 2002; Bascompte 2009; Montoya et al. 2009; O’Gorman et Emmerson 2009; 
 
 ---
 
-# Évaluation des effets cumulatifs
+# Une perspective écosystémique
 
 .pull-left2[
 ## Interactions écologiques
@@ -315,19 +314,19 @@ Wootton 2002; Bascompte 2009; Montoya et al. 2009; O’Gorman et Emmerson 2009; 
 
 class: inverse, center, middle
 
-# Saint-Laurent - Saguenay
+# Évaluation des effets cumulatifs
 
 <html><div style='float:left'></div><hr color='#ffdd55' style="margin-top:-30px" size=1px width=720px></html>
 
-<h2>Évaluation des effets cumulatifs</h2>
-<h2 style="color:#ffdd55;"><b>Système du Saint-Laurent</b></h2>
-<h2>Projet pilote activités maritimes</h2>
+<h2>Une perspective écosystémique</h2>
+<h2 style="color:#ffdd55;"><b>Évaluation des effets cumulatifs</b></h2>
+<h2>Autres projets</h2>
 <h2>Gestion des connaissances</h2>
 
 
 ---
 
-# Système du Saint-Laurent <!--St. Lawrence System-->
+# Système du Saint-Laurent
 
 .pull-left2[
 - Estuaire du Saint-Laurent
@@ -343,7 +342,7 @@ class: inverse, center, middle
 ---
 
 
-# Système du Saint-Laurent <!--St. Lawrence System-->
+# Système du Saint-Laurent
 
 ## Stresseurs
 
@@ -365,7 +364,7 @@ class: inverse, center, middle
 
 ---
 
-# Système du Saint-Laurent <!--St. Lawrence System-->
+# Système du Saint-Laurent
 
 ## Composantes valorisées
 
@@ -385,9 +384,9 @@ class: inverse, center, middle
 
 ---
 
-# Évaluation des effets cumulatifs
+# Système du Saint-Laurent
 
-## Distribution spatiale
+## Effets cumulatifs
 
 <span class="br2"></span>
 
@@ -396,7 +395,7 @@ class: inverse, center, middle
 
 ---
 
-# Évaluation des effets cumulatifs
+# Système du Saint-Laurent
 
 ## Séquences d'effets
 
@@ -413,9 +412,9 @@ class: inverse, center, middle
 
 ---
 
-# Évaluation des effets cumulatifs
+# Système du Saint-Laurent
 
-## Effets directs et indirects
+## Effets directs
 
 .pull-left2[
 
@@ -427,13 +426,11 @@ class: inverse, center, middle
 
 ---
 
-# Évaluation des effets cumulatifs
+# Système du Saint-Laurent
 
-## Effets directs et indirects
+## Effets directs
 
 .pull-left2[
-*Effets directs :*
-
 Invertébrés : Tous les stresseurs
 
 - Espèces sessiles
@@ -458,13 +455,11 @@ Kroeker et al. 2010, 2013; Sydeman et al. 2015; Stier et al. 2016
 
 ---
 
-# Évaluation des effets cumulatifs
+# Système du Saint-Laurent
 
-## Effets directs et indirects
+## Effets indirects
 
 .pull-left2[
-*Effets indirects :*
-
 Invertébrés : Tous les stresseurs
 
 - Moindre intensité relative
@@ -499,76 +494,77 @@ Kroeker et al. 2010, 2013; Sydeman et al. 2015; Stier et al. 2016
 
 class: inverse, center, middle
 
-# Saint-Laurent - Saguenay
+# Évaluation des effets cumulatifs
 
 <html><div style='float:left'></div><hr color='#ffdd55' style="margin-top:-30px" size=1px width=720px></html>
 
-<h2>Évaluation des effets cumulatifs</h2>
+<h2>Une perspective écosystémique</h2>
 <h2>Système du Saint-Laurent</h2>
-<h2 style="color:#ffdd55;"><b>Projet pilote activités maritimes</b></h2>
+<h2 style="color:#ffdd55;"><b>Autres projets</b></h2>
 <h2>Gestion des connaissances</h2>
 
 
 ---
 
-# Projet pilote activités maritimes
-
-## Objectifs
-
-- Développement d’un cadre et d’une méthodologie d’évaluation des effets cumulatifs
-- Collecte de données (environnementales, socioculturelles, usages traditionnels et navigation) pour l’analyse
-- Évaluations régionales des effets cumulatifs
-- Recommandation de stratégies d’atténuation des effets cumulatifs
-
-
-<center><img src="img/phase_fr.png" width="65%"></img></center>
-
-
----
-
-# Projet pilote activités maritimes
-
-## Cadre national
-
-<br/>
-
-<center><img src="img/cadre_fr.png" width="90%"></img></center>
-
-
----
-
-# Projet pilote activités maritimes
-
-## Évaluations régionales
-
-<br/>
+# Autres projets
 
 .pull-left2[
-.font90[
-- Biorégion du plateau Nord (C.-B.)
-- Côte Sud (C.-B.)
-- **Fleuve Saint-Laurent (QC)**
-- Baie Cambridge (Nunavut)
-- Baie de Fundy (N.-É. et N.-B.)
-- Baie Placentia (T.-N.)
-]
+## Atlantique
+
+- Plateau néo-écossais
 ]
 
 .pull-right2[
-<center><img src="img/pilotes.png" width="100%"></img></center>
+<center><img src="figures/scotian-shelf.png" width="85%"></img></center>
+]
+
+
+---
+
+# Autres projets
+
+.pull-left2[
+## Atlantique
+
+- Plateau néo-écossais
+- Labrador et Terre-Neuve
+
+]
+
+.pull-right2[
+<center><img src="figures/newfoundland-labrador.png" width="85%"></img></center>
 ]
 
 ---
 
-# Projet pilote activités maritimes
-
-## Fleuve Saint-Laurent (QC)
+# Autres projets
 
 .pull-left2[
-.font90[
-[Interactive map](https://effetscumulatifsnavigation.github.io/ZoneEtude/)
+## Atlantique
 
-**Collaboration / mobilisation :**
+- Plateau néo-écossais
+- Labrador et Terre-Neuve
+
+
+## Saguenay - Saint-Laurent
+
+- Montréal à Pointe-des-Monts
+- Activités maritimes
+]
+
+.pull-right2[
+<center><img src="figures/tc.png" width="85%"></img></center>
+]
+
+
+---
+
+# Autres projets
+
+.pull-left2[
+## Saguenay - Saint-Laurent
+
+Collaboration / mobilisation :
 
 - Gouvernement du Canada
 - Gouvernement du Québec
@@ -581,35 +577,21 @@ class: inverse, center, middle
 - Intervenants locaux
 - Organisations non-gouvernementales
 ]
-]
 
 .pull-right2[
-<center><img src="figures/stlTC.png" width="78%"></img></center>
-]
-
-<br/>
-
-.footer[
-<center><img src="img/TC2.png" width="60%"></img></center>
+<center><img src="figures/tc.png" width="85%"></img></center>
 ]
 
 ---
 
-# Projet pilote activités maritimes
+# Autres projets
 
-## Fleuve Saint-Laurent (QC)
+## Saguenay - Saint-Laurent
 
-.pull-left2[
-.font90[
-**Collaboration / mobilisation :**
-]
-]
+<br/>
 
-<center><img src="img/portee2.png" width="100%"></img></center>
 
-.footer[
-<center><img src="img/TC2.png" width="60%"></img></center>
-]
+<center><img src="img/portee.png" width="100%"></img></center>
 
 
 <!-- =~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~=~-~= -->
@@ -623,13 +605,13 @@ class: inverse, center, middle
 
 class: inverse, center, middle
 
-# Saint-Laurent - Saguenay
+# Évaluation des effets cumulatifs
 
 <html><div style='float:left'></div><hr color='#ffdd55' style="margin-top:-30px" size=1px width=720px></html>
 
-<h2>Évaluation des effets cumulatifs</h2>
+<h2>Une perspective écosystémique</h2>
 <h2>Système du Saint-Laurent</h2>
-<h2>Projet pilote activités maritimes</h2>
+<h2>Autres projets</h2>
 <h2 style="color:#ffdd55;"><b>Gestion des connaissances</b></h2>
 
 
@@ -783,89 +765,3 @@ class: inverse, center, middle
 <br/>
 
 <center><img src="img/logos/LOGOS.png" width="100%"></img></center>
-
----
-
----
-
-# Évaluation des effets cumulatifs
-
-## Espèces individuelles ou en groupes
-
-<span class="br2"></span>
-
-<center><img src="figures/groundfish.png" width="100%"></img></center>
-
-
-
----
-
-# Évaluation des effets cumulatifs
-
-<center><img src="figures/9_1-house.png" width="100%"></img></center>
-
-
----
-
-# Évaluation des effets cumulatifs
-
-<center><img src="figures/9_2-house.png" width="100%"></img></center>
-
----
-
-# Évaluation des effets cumulatifs
-
-<center><img src="figures/9_3-house.png" width="100%"></img></center>
-
----
-
-# Évaluation des effets cumulatifs
-
-<center><img src="figures/9_4-house.png" width="100%"></img></center>
-
----
-
-# Évaluation des effets cumulatifs
-
-<center><img src="figures/9_8-house.png" width="100%"></img></center>
-
-***Modèle conceptuel:*** incorporer les interactions écologiques
-
----
-
-
-# Évaluation des effets cumulatifs
-
-<center><img src="figures/9_12-house.png" width="100%"></img></center>
-
-
-***Modèle conceptuel:*** incorporer les interactions écologiques
-
-***Pilliers supplémentaires:*** métaréseau et sensibilité trophique
-
----
-
-# Évaluation des effets cumulatifs
-
-<center><img src="figures/9_13-house.png" width="100%"></img></center>
-
-
-***Modèle conceptuel:*** incorporer les interactions écologiques
-
-***Pilliers supplémentaires:*** métaréseau et sensibilité trophique
-
-
----
-
-# Évaluation des effets cumulatifs
-
-<center><img src="figures/9_14-house.png" width="100%"></img></center>
-
-
-***Modèle conceptuel:*** incorporer les interactions écologiques
-
-***Pilliers supplémentaires:*** métaréseau et sensibilité trophique
-
-***Évaluation:*** évaluation des effets cumulatifs communauté-centrées
-
-<!-- rmarkdown::render('./index.Rmd') -->
